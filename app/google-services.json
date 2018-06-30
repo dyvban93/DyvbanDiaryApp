@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "760168374900",
+    "firebase_url": "https://dyvbandiaryapp.firebaseio.com",
+    "project_id": "dyvbandiaryapp",
+    "storage_bucket": "dyvbandiaryapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760168374900:android:b0f8e1489ab0bfc0",
+        "android_client_info": {
+          "package_name": "com.projects.bakota.dyvbandiaryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760168374900-kjus0g7g01gmfhgedmptmvh3782kqbt6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projects.bakota.dyvbandiaryapp",
+            "certificate_hash": "bbc6d97dc03fcc7be26937d0a741ceee6700705a"
+          }
+        },
+        {
+          "client_id": "760168374900-ao27ei3agrcohs6moocjgig11c63fcr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlkT2ylJ7kfyUEAR2sqfXi40AT_26jIQc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760168374900-ao27ei3agrcohs6moocjgig11c63fcr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
